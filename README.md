@@ -16,7 +16,7 @@ NexCart is an innovative smart shopping cart designed to revolutionize the retai
 - Enables contactless and queue-free checkout by integrating automatic billing and mobile payment systems.
 
 ### Personalized Product Recommendations
-- Uses a recommendation engine powered by machine learning to suggest products based on shopping behavior and past purchases.
+- Uses a recommendation engine powered by machine learning and association rule based learning to suggest products based on shopping behavior and past purchases.
 
 ### Contactless Shopping
 - Reduces human interaction, ensuring a safer and more hygienic shopping experience.
